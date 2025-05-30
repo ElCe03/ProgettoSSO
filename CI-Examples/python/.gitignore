@@ -4,3 +4,4 @@
 /server.PID
 /TEST_STDERR
 /TEST_STDOUT
+venv/
